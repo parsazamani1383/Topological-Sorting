@@ -65,14 +65,23 @@ Input graph (contains a cycle):
 ![Cyclic Graph](assets/graph_cycle.png)
 
 **Output:**
+
 Graph has a cycle! No topological sort possible.
+
 Technologies
+
 Language: C++17
+
 Algorithm: DFS (Depth First Search)
+
 Data Structures: Stack, Vector
 
 
 👤 Author
+
 Name: Parsa Zamani
+
 GitHub: github.com/parsazamani1383
+
 Email: parsazamani.uok@gmail.com
+
