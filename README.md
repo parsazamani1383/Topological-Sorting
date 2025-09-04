@@ -1,8 +1,6 @@
 # Topological Sort with Cycle Detection (C++)
 
 This project implements **Topological Sorting** in directed graphs with integrated **Cycle Detection** using **Depth-First Search (DFS)**.  
-The graph is read from a file (`graph.txt`) as an adjacency matrix, then converted into an adjacency list for processing.  
-If the graph contains a cycle, the program will detect it and report that no topological ordering is possible.
 
 ---
 
@@ -56,6 +54,7 @@ Input graph (Adjacency Matrix + Graph Visualization):
 
 ### ❌ Cyclic Graph
 Input graph (contains a cycle):
+
 6
 0 1 1 0 0 0
 0 0 0 1 1 0
@@ -63,24 +62,17 @@ Input graph (contains a cycle):
 1 0 0 0 0 0
 0 0 0 1 0 0
 0 0 0 1 0 0
-
-
 ![Cyclic Graph](assets/graph_cycle.png)
 
 **Output:**
 Graph has a cycle! No topological sort possible.
 Technologies
-
 Language: C++17
-
 Algorithm: DFS (Depth First Search)
-
 Data Structures: Stack, Vector
 
+
 👤 Author
-
 Name: Parsa Zamani
-
 GitHub: github.com/parsazamani1383
-
 Email: parsazamani.uok@gmail.com
