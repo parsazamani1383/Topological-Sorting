@@ -55,7 +55,7 @@ Input graph (Adjacency Matrix + Graph Visualization):
 ![Graph Input](assets/graph_example.png)  
 
 **Output:**
-![Topological Order](assets/topo_result1.png)
+![Topological Order](assets/topo_result.png)
 
 0 2 5 1 4 3
 
