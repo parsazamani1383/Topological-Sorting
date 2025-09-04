@@ -32,11 +32,17 @@ This project implements **Topological Sorting** in directed graphs with integrat
 
 ### Example Input
 6
+
 0 1 1 0 0 0
+
 0 0 0 1 1 0
+
 0 0 0 0 0 1
+
 0 0 0 0 0 0
+
 0 0 0 1 0 0
+
 0 0 0 1 0 0
 
 ---
