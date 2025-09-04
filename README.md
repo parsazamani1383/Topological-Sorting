@@ -15,8 +15,11 @@ This project implements **Topological Sorting** in directed graphs with integrat
 ## 📂 Project Structure
 
 ├── main.cpp # Source code
+
 ├── graph.txt # Input graph (Adjacency Matrix)
+
 ├── README.md # Project documentation
+
 └── assets/ # Example graphs and outputs (images)
 
 ---
