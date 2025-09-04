@@ -56,11 +56,18 @@ Input graph (Adjacency Matrix + Graph Visualization):
 
 ### ❌ Cyclic Graph
 Input graph (contains a cycle):
+6
+0 1 1 0 0 0
+0 0 0 1 1 0
+0 0 0 0 0 1
+1 0 0 0 0 0
+0 0 0 1 0 0
+0 0 0 1 0 0
+
 
 ![Cyclic Graph](assets/graph_cycle.png)
 
 **Output:**
-![Topological Order](assets/topo_result2.png)
 Graph has a cycle! No topological sort possible.
 Technologies
 
@@ -74,6 +81,6 @@ Data Structures: Stack, Vector
 
 Name: Parsa Zamani
 
-GitHub: (github.com/parsazamani1383)
+GitHub: github.com/parsazamani1383
 
 Email: parsazamani.uok@gmail.com
