@@ -65,12 +65,19 @@ Input graph (Adjacency Matrix + Graph Visualization):
 Input graph (contains a cycle):
 
 6
+
 0 1 1 0 0 0
+
 0 0 0 1 1 0
+
 0 0 0 0 0 1
+
 1 0 0 0 0 0
+
 0 0 0 1 0 0
+
 0 0 0 1 0 0
+
 ![Cyclic Graph](assets/graph_cycle.png)
 
 **Output:**
